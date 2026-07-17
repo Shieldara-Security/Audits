@@ -12,7 +12,7 @@ Shieldara Security implements a strict, deterministic evaluation protocol for de
 ## Repository Architecture
 
 * `/reports` - Finalized, client-approved security evaluations.
-* 
+ 
 ## Scope Initialization
 
 To initiate a codebase evaluation or request architectural consulting, utilize the following network parameters:
